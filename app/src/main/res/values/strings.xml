@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ورود کاربر</string>
+    <string name="login_title">ورود به حساب</string>
+    <string name="login_subtitle">برای ادامه، نام کاربری و رمز عبور را وارد کنید</string>
+    <string name="hint_username">نام کاربری</string>
+    <string name="hint_password">رمز عبور</string>
+    <string name="btn_login">ورود</string>
+    <string name="btn_logout">خروج از حساب</string>
+    <string name="error_invalid_credentials">نام کاربری یا رمز عبور اشتباه است</string>
+    <string name="welcome_title">خوش آمدید</string>
+    <string name="welcome_subtitle">با موفقیت وارد حساب شدید</string>
+</resources>

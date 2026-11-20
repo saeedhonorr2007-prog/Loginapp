@@ -1,0 +1,19 @@
+# فایل‌های خروجی بیلد
+*.apk
+*.aab
+*.ap_
+build/
+
+# فایل‌های محلی Gradle
+.gradle/
+local.properties
+
+# فایل‌های IDE
+.idea/
+*.iml
+.DS_Store
+captures/
+
+# NDK / Native
+.externalNativeBuild/
+.cxx/
