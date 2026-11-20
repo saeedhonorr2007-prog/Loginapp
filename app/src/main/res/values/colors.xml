@@ -1,0 +1,12 @@
+<resources>
+    <color name="bg_navy">#0D1B2A</color>
+    <color name="white">#FFFFFF</color>
+    <color name="blue">#2563EB</color>
+    <color name="blue_dark">#1D4ED8</color>
+    <color name="text_navy">#0D1B2A</color>
+    <color name="text_gray">#64748B</color>
+    <color name="error_red">#DC2626</color>
+    <color name="field_stroke">#CBD5E1</color>
+    <color name="icon_slate">#64748B</color>
+    <color name="ic_launcher_background">#0D1B2A</color>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.Varud" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/blue</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:statusBarColor">@color/bg_navy</item>
+        <item name="android:navigationBarColor">@color/bg_navy</item>
+    </style>
+</resources>
